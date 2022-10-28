@@ -1,0 +1,2295 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Copernicus_DSM_30_N51_00_W009_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W009_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Folder><name>Copernicus_DSM_30_N51_00_W009_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W009</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W009_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.092</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.778</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">728</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-9,51 -8,51 -8,52 -9,52 -9,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W010_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W010</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W010_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.904</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.521</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">3261</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-10,52 -9,52 -9,53 -10,53 -10,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W010_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W010</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W010_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.028</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.616</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">181</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-10,51 -9,51 -9,52 -10,52 -10,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W010_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W010</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W010_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.879</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.630</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">3125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-10,53 -9,53 -9,54 -10,54 -10,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W001_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W001</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W001_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.865</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.636</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">8530</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-1,52 0,52 0,53 -1,53 -1,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.850</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.575</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">3846</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,52 -1,52 -1,53 -2,53 -2,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W001_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W001</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W001_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.868</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.609</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">2612</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-1,51 0,51 0,52 -1,52 -1,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.849</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.579</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">5513</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,51 -1,51 -1,52 -2,52 -2,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N50_00_W001_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N50W001</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N50_00_W001_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.059</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.577</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">374</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-1,50 0,50 0,51 -1,51 -1,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.052</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.527</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">990</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,55 -1,55 -1,56 -2,56 -2,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.952</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.669</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">3664</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,54 -1,54 -1,55 -2,55 -2,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.889</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.629</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">2749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,53 -1,53 -1,54 -2,54 -2,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.925</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.664</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,54 -2,54 -2,55 -3,55 -3,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.020</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.704</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">2725</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,55 -2,55 -2,56 -3,56 -3,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.977</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.615</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,57 -2,57 -2,58 -3,58 -3,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N56_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N56W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N56_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.899</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.614</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1529</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,56 -2,56 -2,57 -3,57 -3,56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N58_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N58W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N58_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,58 -2,58 -2,59 -3,59 -3,58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N59_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N59W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N59_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.564</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">2.182</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">64</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,59 -2,59 -2,60 -3,60 -3,59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N59_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N59W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N59_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.818</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.518</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">77</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,59 -3,59 -3,60 -4,60 -4,59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N58_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N58W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N58_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.921</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.573</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1837</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,58 -3,58 -3,59 -4,59 -4,58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W010_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W010</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W010_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.903</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.652</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1557</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-10,54 -9,54 -9,55 -10,55 -10,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N58_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N58W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N58_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.212</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.002</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,58 -7,58 -7,59 -8,59 -8,58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.619</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.603</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,57 -7,57 -7,58 -8,58 -8,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N56_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N56W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N56_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.705</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.705</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,56 -7,56 -7,57 -8,57 -8,56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.073</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.649</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">754</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,55 -6,55 -6,56 -7,56 -7,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,53 -5,53 -5,54 -6,54 -6,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.251</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.608</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">2692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,53 -6,53 -6,54 -7,54 -7,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N58_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N58W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N58_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.330</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.748</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">705</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,58 -6,58 -6,59 -7,59 -7,58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.948</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.607</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">82</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,57 -6,57 -6,58 -7,58 -7,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.169</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.559</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">587</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,54 -5,54 -5,55 -6,55 -6,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,54 -6,54 -6,55 -7,55 -7,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N56_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N56W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N56_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">3.201</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">2.334</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">383</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,56 -6,56 -6,57 -7,57 -7,56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,55 -5,55 -5,56 -6,56 -6,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.865</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.554</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">3551</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,52 -2,52 -2,53 -3,53 -3,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.908</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.612</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">2039</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,51 -2,51 -2,52 -3,52 -3,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N50_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N50W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N50_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.955</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.664</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">651</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,50 -2,50 -2,51 -3,51 -3,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.073</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.673</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">680</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,51 -3,51 -3,52 -4,52 -4,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W003_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W003</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W003_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.937</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.619</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">2421</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-3,53 -2,53 -2,54 -3,54 -3,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.846</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.581</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,52 -3,52 -3,53 -4,53 -4,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.879</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.579</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">477</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,53 -3,53 -3,54 -4,54 -4,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N59_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N59W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N59_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,59 -5,59 -5,60 -6,60 -6,59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N59_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N59W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N59_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,59 -6,59 -6,60 -7,60 -7,59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N50_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N50W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N50_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.951</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.527</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1095</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,50 -4,50 -4,51 -5,51 -5,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.666</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.584</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,51 -7,51 -7,52 -8,52 -8,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W009_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W009</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W009_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.884</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.626</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">3500</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-9,52 -8,52 -8,53 -9,53 -9,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W009_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W009</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W009_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.817</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.572</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">4943</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-9,53 -8,53 -8,54 -9,54 -9,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W009_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W009</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W009_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.983</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.413</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">81</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-9,55 -8,55 -8,56 -9,56 -9,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W009_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W009</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W009_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.026</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.561</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-9,54 -8,54 -8,55 -9,55 -9,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W001_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W001</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W001_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.867</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.627</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">10887</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-1,53 0,53 0,54 -1,54 -1,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.100</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.692</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">650</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,57 -3,57 -3,58 -4,58 -4,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N56_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N56W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N56_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.009</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.775</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,56 -3,56 -3,57 -4,57 -4,56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N58_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N58W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N58_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.547</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.380</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,58 -5,58 -5,59 -6,59 -6,58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.743</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.423</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">229</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,57 -5,57 -5,58 -6,58 -6,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N56_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N56W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N56_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.682</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.347</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">84</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,56 -5,56 -5,57 -6,57 -6,56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.892</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.632</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1514</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,55 -4,55 -4,56 -5,56 -5,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.886</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.645</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">623</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,57 -4,57 -4,58 -5,58 -5,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N56_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N56W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N56_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.030</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.791</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">903</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,56 -4,56 -4,57 -5,57 -5,56</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.117</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.684</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,54 -3,54 -3,55 -4,55 -4,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.476</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.740</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">552</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,54 -4,54 -4,55 -5,55 -5,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N59_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N59W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N59_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,59 -1,59 -1,60 -2,60 -2,59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N50_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N50W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N50_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.781</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">0.982</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">301</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,50 -5,50 -5,51 -6,51 -6,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,52 -5,52 -5,53 -6,53 -6,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.963</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.622</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">265</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,55 -7,55 -7,56 -8,56 -8,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,54 -7,54 -7,55 -8,55 -8,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W009_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W009</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W009_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-9,57 -8,57 -8,58 -9,58 -9,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N50_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N50W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N50_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.005</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.729</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">456</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,50 -3,50 -3,51 -4,51 -4,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W006_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W006</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W006_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-6,51 -5,51 -5,52 -6,52 -6,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N51_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N51W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N51_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.061</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.717</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">925</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,51 -4,51 -4,52 -5,52 -5,51</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N57_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N57W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N57_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.568</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.861</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">934</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,57 -1,57 -1,58 -2,58 -2,57</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">3.262</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.918</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">577</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,52 -4,52 -4,53 -5,53 -5,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.296</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.942</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1056</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,53 -4,53 -4,54 -5,54 -5,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N55_00_W004_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N55W004</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N55_00_W004_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.072</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.789</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1949</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-4,55 -3,55 -3,56 -4,56 -4,55</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N58_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N58W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N58_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.784</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.488</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">718</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,58 -4,58 -4,59 -5,59 -5,58</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N54_00_W001_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N54W001</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N54_00_W001_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.019</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.734</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1745</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-1,54 0,54 0,55 -1,55 -1,54</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N50_00_W002_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N50W002</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N50_00_W002_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">2.331</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.740</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">719</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-2,50 -1,50 -1,51 -2,51 -2,50</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N59_00_W005_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N59W005</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N59_00_W005_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-5,59 -4,59 -4,60 -5,60 -5,59</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.787</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.513</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">4588</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,52 -7,52 -7,53 -8,53 -8,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N52_00_W007_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N52W007</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N52_00_W007_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">1.979</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">1.666</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">1688</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-7,52 -6,52 -6,53 -7,53 -7,52</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Folder><name>Copernicus_DSM_30_N53_00_W008_00_ACM_Accuracy_Mask</name>
+  <Placemark>
+	<name>N53W008</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Copernicus_DSM_30_N53_00_W008_00_ACM_Accuracy_Mask">
+		<SimpleData name="tessellate">-1</SimpleData>
+		<SimpleData name="extrude">0</SimpleData>
+		<SimpleData name="visibility">-1</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_90__m__">n/a (missing reference data)</SimpleData>
+		<SimpleData name="Absolute_Vertical_Accuracy_LE_68__m_">n/a (missing reference data)</SimpleData>
+		<SimpleData name="No__of_valid_IceSat_Points_">n/a (missing reference data)</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>-8,53 -7,53 -7,54 -8,54 -8,53</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+<Schema name="Copernicus_DSM_30_N52_00_W010_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W010_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W010_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W010_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W010_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W010_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W001_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W001_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W001_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W001_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N50_00_W001_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N50_00_W001_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N56_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N56_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N58_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N58_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N59_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N59_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N59_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N59_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N58_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N58_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W010_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W010_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N58_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N58_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N56_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N56_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N58_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N58_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N56_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N56_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N50_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N50_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W003_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W003_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N59_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N59_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N59_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N59_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N50_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N50_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W009_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W009_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W009_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W009_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W009_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W009_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W009_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W009_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W001_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W001_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N56_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N56_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N58_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N58_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N56_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N56_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N56_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N56_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N59_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N59_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N50_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N50_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W009_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W009_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N50_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N50_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W006_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W006_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N51_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N51_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N57_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N57_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N55_00_W004_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N55_00_W004_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N58_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N58_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N54_00_W001_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N54_00_W001_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N50_00_W002_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N50_00_W002_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N59_00_W005_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N59_00_W005_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N52_00_W007_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N52_00_W007_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+<Schema name="Copernicus_DSM_30_N53_00_W008_00_ACM_Accuracy_Mask" id="Copernicus_DSM_30_N53_00_W008_00_ACM_Accuracy_Mask">
+	<SimpleField name="timestamp" type="string"></SimpleField>
+	<SimpleField name="begin" type="string"></SimpleField>
+	<SimpleField name="end" type="string"></SimpleField>
+	<SimpleField name="altitudeMode" type="string"></SimpleField>
+	<SimpleField name="tessellate" type="int"></SimpleField>
+	<SimpleField name="extrude" type="int"></SimpleField>
+	<SimpleField name="visibility" type="int"></SimpleField>
+	<SimpleField name="drawOrder" type="int"></SimpleField>
+	<SimpleField name="icon" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_90__m__" type="string"></SimpleField>
+	<SimpleField name="Absolute_Vertical_Accuracy_LE_68__m_" type="string"></SimpleField>
+	<SimpleField name="No__of_valid_IceSat_Points_" type="string"></SimpleField>
+</Schema>
+</Document></kml>
